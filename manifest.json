@@ -1,0 +1,18 @@
+{
+  "name": "Checklist de Atividades",
+  "short_name": "Checklist",
+  "description": "Sistema de checklist de atividades",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#1f6feb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
